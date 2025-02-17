@@ -21,6 +21,7 @@ int main(){
    scanf("%f &área");
 
    printf("PIB: \n");
+   scanf("%f &pib");
 
 
 
