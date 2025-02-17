@@ -18,7 +18,8 @@ int main(){
    scanf("%d, &população");
 
    printf("Área: \n");
-   
+   scanf("%f &área");
+
 
 
    
