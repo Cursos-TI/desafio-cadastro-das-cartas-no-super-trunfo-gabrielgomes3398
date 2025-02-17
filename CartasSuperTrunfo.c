@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-   int População, Numeros de pontos Túristico; 
+   int População, Numeros de pontos Túristicos; 
    float Área, PIB;
    char Estado, Código, Nome da Cidade;
 
@@ -18,13 +18,14 @@ int main(){
    scanf("%d, &população");
 
    printf("Área: \n");
-   scanf("%f &área");
+   scanf("%f, &área");
 
    printf("PIB: \n");
-   scanf("%f &pib");
+   scanf("%f, &pib");
 
    printf("Numero de pontos Túristico: \n");
-   
+   scanf("%d, &numero de pontos túristicos");
+
 
 
 
