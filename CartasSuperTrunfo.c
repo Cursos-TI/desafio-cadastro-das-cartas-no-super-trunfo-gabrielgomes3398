@@ -20,6 +20,8 @@ int main(){
    printf("Área: \n");
    scanf("%f &área");
 
+   printf("PIB: \n");
+
 
 
    
