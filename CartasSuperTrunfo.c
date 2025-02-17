@@ -6,9 +6,11 @@ int main(){
    char Estado, Código;
 
    printf("Estado: \n");
-   scanf("%s, &Estado")
+   scanf("%s, &estado");
 
    printf("Código: \n");
+   scanf("%s, &código");
+
    
    
 
