@@ -12,7 +12,8 @@ int main(){
    scanf("%s, &código");
 
    printf("Nome da Cidade: \n");
-   
+   scanf("%s, &nome da cidade")
+
 
    
    
