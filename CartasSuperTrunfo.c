@@ -6,7 +6,7 @@ int main(){
    char Estado, Código da Carta;
 
    printf("Estado: \n");
-   
+   scanf("%s, &Estado")
    
    
 
