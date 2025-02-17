@@ -3,33 +3,24 @@
 int main(){
    int População, Numeros de pontos Túristicos; 
    float Área, PIB;
-   char Estado, Código, Nome da Cidade;
+   char Estado, Código, Nome da Cidade[100];
 
-   printf("Estado: \n");
-   scanf("%s, &estado");
+   printf("Estado:A \n")
 
-   printf("Código: \n");
-   scanf("%s, &código");
+   printf("Código:A01 \n");
 
-   printf("Nome da Cidade: \n");
-   scanf("%s, &nome da cidade");
+   printf("Nome da Cidade:São Paulo \n");
    
-   printf("População: \n");
-   scanf("%d, &população");
+   printf("População:12325000 \n");
 
-   printf("Área: \n");
-   scanf("%f, &área");
+   printf("Área:1521.11km² \n");
 
-   printf("PIB: \n");
-   scanf("%f, &pib");
+   printf("PIB:699.28 bilhões de reais \n");
 
-   printf("Numero de pontos Túristico: \n");
-   scanf("%d, &numero de pontos túristicos");
+   printf("Numero de pontos Túristico:50 \n");
 
 
-
-
-   
-   
+   return 0
+  
 
 }
