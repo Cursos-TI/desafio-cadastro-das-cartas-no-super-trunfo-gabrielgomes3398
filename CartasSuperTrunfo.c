@@ -15,6 +15,9 @@ int main(){
    scanf("%s, &nome da cidade");
    
    printf("População: \n");
+   scanf("%d, &população");
+
+   
 
 
    
