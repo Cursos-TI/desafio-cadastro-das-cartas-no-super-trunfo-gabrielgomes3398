@@ -14,3 +14,5 @@ int main(){
 
     printf("População:12325000 \n");
 
+    printf("Área:1521.11km² \n");
+
