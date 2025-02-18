@@ -12,6 +12,10 @@ int main(){
 
     printf("Nome da Cidade:Rio de Janeiro \n");
 
-    
+    printf("População:6748000 \n");
+
+    printf("Área:1200.25 km² \n");
+
+
 
 
