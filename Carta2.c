@@ -21,5 +21,8 @@ int main(){
     printf("Numero de pontos Túristico:30 \n");
 
 
+    return 0;
+
+
 
 
