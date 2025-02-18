@@ -4,13 +4,13 @@ int main(){
     
     int População, Numero, Túristico;
     float Área, PIB;
-    char Estado, Código,Cidade[100];
+    char Estado, Código, Cidade[100];
 
     printf("Estado:B \n");
 
     printf("Código:B02 \n");
 
-    printf("Nome da Cidade:Rio de Janeiro \n");
+    printf("Cidade:Rio de Janeiro \n");
 
     printf("População:6748000 \n");
 
@@ -18,11 +18,9 @@ int main(){
 
     printf("PIB:300.50 bilhões de reais \n");
 
-    printf("Numero de pontos Túristico:30 \n");
+    printf("Numero:30 \n");
 
 
     return 0;
 
-
-
-
+}    
