@@ -8,5 +8,5 @@ int main(){
 
     printf("Estado:B \n");
 
-    printf("")
+    printf("Código:B02 \n");
 
