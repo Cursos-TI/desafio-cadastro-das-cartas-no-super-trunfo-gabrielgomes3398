@@ -7,3 +7,5 @@ int main(){
     char Estado, Código, Nome da Cidade[100];
 
     printf("Estado:A \n")
+
+    printf("Código:A01 \n");
