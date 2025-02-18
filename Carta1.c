@@ -9,3 +9,5 @@ int main(){
     printf("Estado:A \n")
 
     printf("Código:A01 \n");
+
+    
