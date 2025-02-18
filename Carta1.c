@@ -20,3 +20,6 @@ int main(){
 
     printf("Numero de pontos Túristico:50 \n");
 
+
+    
+
