@@ -16,3 +16,5 @@ int main(){
 
     printf("Área:1521.11km² \n");
 
+    printf("PIB:699.28 bilhões de reais \n");
+
