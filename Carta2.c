@@ -6,3 +6,5 @@ int main(){
     float Área, PIB;
     char Estado, Código da carta, Nome da cidade[100];
 
+    printf("Estado: \n");
+
