@@ -2,11 +2,16 @@
 
 int main(){
     
-    int População, Numero de pontos Túristico;
+    int População, Numero, Túristico;
     float Área, PIB;
-    char Estado, Código da carta, Nome da cidade[100];
+    char Estado, Código,Cidade[100];
 
     printf("Estado:B \n");
 
     printf("Código:B02 \n");
+
+    printf("Nome da Cidade:Rio de Janeiro \n");
+
+    
+
 
