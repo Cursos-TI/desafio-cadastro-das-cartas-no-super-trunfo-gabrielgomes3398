@@ -18,3 +18,5 @@ int main(){
 
     printf("PIB:699.28 bilhões de reais \n");
 
+    printf("Numero de pontos Túristico:50 \n");
+
