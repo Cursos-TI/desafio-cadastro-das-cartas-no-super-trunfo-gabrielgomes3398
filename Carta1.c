@@ -4,4 +4,6 @@ int main(){
 
     int População, Numeros de pontos Túristico;
     float Área, Estado;
-    char
+    char Estado, Código, Nome da Cidade[100];
+
+    printf("Estado:A \n")
