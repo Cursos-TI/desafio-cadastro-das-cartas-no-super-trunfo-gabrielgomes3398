@@ -2,8 +2,8 @@
 
 int main(){
  
-    int idade1 = 30;
-    int idade2 = 32;
+    int carta1 = 12300000;
+    int carta2 = 6000000;
 
     printf("Entre com a populacao: \n");
     scanf("%d", População);
