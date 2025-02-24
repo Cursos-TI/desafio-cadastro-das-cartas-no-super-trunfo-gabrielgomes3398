@@ -2,4 +2,5 @@
 
 int main(){
  
-    int 
+    int populacao
+    float 
