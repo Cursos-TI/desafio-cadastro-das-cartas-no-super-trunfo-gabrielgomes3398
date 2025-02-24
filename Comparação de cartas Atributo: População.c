@@ -13,7 +13,9 @@ int main(){
 
 
     if (carta1 > carta2){
-        
+        printf("São Paulo tem mais populção");
+    }    
+
 
 
 
