@@ -2,6 +2,7 @@
 
 int main(){
  
-    int População
-    float Area, PIB
+    int População;
+    float Area, PIB;
+
 
