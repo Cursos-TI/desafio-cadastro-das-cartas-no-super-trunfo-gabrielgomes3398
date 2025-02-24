@@ -2,7 +2,7 @@
 
 int main(){
  
-    int carta1 = 12300000;
+    unsigned int carta1 = 12300000;
     int carta2 = 6000000;
 
     printf("Entre com a carta1 São Paulo: \n");
