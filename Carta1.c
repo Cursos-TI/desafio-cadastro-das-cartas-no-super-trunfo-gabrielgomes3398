@@ -1,14 +1,14 @@
-#include <stdio.h>;
+#include <stdio.h>
 
 int main(){
 
-    int População, Numeros de pontos Túristico;
-    float Área, Estado;
-    char Estado, Código, Nome da Cidade[100];
+    int Populacao, Numeros, Turistico;
+    float Area, PIB;
+    char Estado, Codigo, Nome, Cidade[100];
 
-    printf("Estado:A \n")
+    printf("Estado:A \n");
 
-    printf("Código:A01 \n");
+    printf("Codigo:A01 \n");
 
     printf("Nome da Cidade:São Paulo \n");
 
@@ -21,6 +21,7 @@ int main(){
     printf("Numero de pontos Túristico:50 \n");
 
 
-    return 0
-
+    return 0;
+    
+    
 }
