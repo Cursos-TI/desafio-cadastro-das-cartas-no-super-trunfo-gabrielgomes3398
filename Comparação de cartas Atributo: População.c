@@ -8,7 +8,10 @@ int main(){
     printf("Entre com a populacao: \n");
     scanf("%d", População);
 
-    printf("Entre com a Área": \n);
+    printf("Entre com a Area: \n");
+    scanf("%f",Area );
+    
+
 
 
 
