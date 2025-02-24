@@ -1,10 +1,10 @@
-#include <stdio.h>;
+#include <stdio.h>
 
 int main(){
     
-    int População, Numero, Túristico;
-    float Área, PIB;
-    char Estado, Código, Cidade[100];
+    int Populacao, Numero, Turistico;
+    float Area, PIB;
+    char Estado, Codigo, Cidade[100];
 
     printf("Estado:B \n");
 
