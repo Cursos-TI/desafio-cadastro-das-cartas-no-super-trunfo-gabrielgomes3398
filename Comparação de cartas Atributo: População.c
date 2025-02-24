@@ -8,7 +8,7 @@ int main(){
     printf("Entre com a carta1: \n");
     scanf("%d", carta1);
 
-    printf("Entre com carta2": \n);
+    printf("Entre com carta2: \n");
     scanf("%d", carta2);
 
 
