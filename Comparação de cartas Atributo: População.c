@@ -3,5 +3,5 @@
 int main(){
  
     int População
-    float
+    float Area, PIB
 
