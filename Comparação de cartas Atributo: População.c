@@ -2,8 +2,8 @@
 
 int main(){
  
-    unsigned int População = 15300000;
-    float Area, PIB;
+    int idade1 = 30;
+    int idade2 = 32;
 
     printf("Entre com a populacao: \n");
     scanf("%d", População);
@@ -14,7 +14,7 @@ int main(){
     printf("Entre com o PIB: \n");
     scanf("%f", PIB);
 
-    if (População >)
+    if (carta1 > carta2)
 
 
 
