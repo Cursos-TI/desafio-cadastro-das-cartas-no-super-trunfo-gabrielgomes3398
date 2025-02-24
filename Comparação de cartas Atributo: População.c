@@ -12,7 +12,8 @@ int main(){
     scanf("%d", carta2);
 
 
-    if (carta1 > carta2)
+    if (carta1 > carta2){
+        
 
 
 
